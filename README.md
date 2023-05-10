@@ -6,5 +6,4 @@
 ## mission 2. 연도별 게임의 트렌드가 있는가?
 ## mission 3. 출고량이 높은 게임에 대한 분석 및 시각화 프로세스
 
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=rIh_H0eB1O8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Video Label](http://img.youtube.com/vi/rIh_H0eB1O8/0.jpg)](https://youtu.be/rIh_H0eB1O8')
